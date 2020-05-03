@@ -7,7 +7,6 @@
 
 - [Description](#description)
 - [Files](#files)
-- [Visuals](#visuals)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Support](#support)
@@ -15,11 +14,6 @@
 ## _Description_
 
 - Allows user to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, the application will populate the total when brought back online.
-
-
-## _Visuals_
-
-- Demonstrations of the application
 
 ## _Usage_
 
