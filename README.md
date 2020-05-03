@@ -11,19 +11,19 @@
 - [Installation](#installation)
 - [Support](#support)
 
-## _Description_
+## Description
 
 - Allows user to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, the application will populate the total when brought back online.
 
-## _Usage_
+## Usage
 
 - Run `node server.js` 
 
-## _Installation_
+## Installation
 
 - Run `npm i` and make sure install all dependencies.
 
-## _Support_
+## Support
 [<img src="https://avatars3.githubusercontent.com/u/60668617?v=4" alt="avatar" style="border-radius: 75px" width="75"/>](https://github.com/charrmountain)
 
 - charr.mt@gmail.com
