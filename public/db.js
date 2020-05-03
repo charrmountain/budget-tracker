@@ -1,7 +1,5 @@
 
 // TODO: open  indexedDB
-const request = indexedDB.open("budget", 1);
-
 const indexedDB = 
 window.indexedDB ||
 window.mozIndexedDB ||
@@ -10,6 +8,8 @@ window.msIndexedDB ||
 window.shimIndexedDB;
 
 let db;
+
+const request = indexedDB.open("budget", 1);
 
 request.onupgradeneeded = function(event) {
     db = event.target.result;
