@@ -1,6 +1,7 @@
 # Budget Trackers
 
 [GitHub](https://github.com/charrmountain/budget-tracker)
+
 [Deployed Link](https://floating-headland-49063.herokuapp.com/)
 
 ## Table of Contents
