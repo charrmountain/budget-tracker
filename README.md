@@ -1,7 +1,7 @@
 # Budget Trackers
 
-[GitHub](https://github.com/charrmountain/workout-tracker)
-[Deployed Link](https://shrouded-harbor-04082.herokuapp.com/)
+[GitHub](https://github.com/charrmountain/budget-tracker)
+[Deployed Link](https://floating-headland-49063.herokuapp.com/)
 
 ## Table of Contents
 
